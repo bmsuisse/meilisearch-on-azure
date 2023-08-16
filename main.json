@@ -149,7 +149,10 @@
               "kind": "StorageV2",
               "sku": {
                 "name": "Standard_LRS"
-              }
+              },
+                "properties": {
+                  "allowBlobPublicAccess": false
+                }
             },
             {
               "type": "Microsoft.Storage/storageAccounts/blobServices/containers",
@@ -366,8 +369,8 @@
                 "reserved": true
               },
               "sku": {
-                "tier": "Standard",
-                "name": "S1"
+                "tier": "Basic",
+                "name": "B1"
               }
             },
             {
