@@ -6,7 +6,8 @@ Infrastructure as code for hosting [Meilisearch](https://www.meilisearch.com) on
 
 You can use these buttons to deploy a Meilisearch app on Azure already configured. **Please** change the _Application Name_ parameter by something unique and the _API Key_ to secure your instance.
 
-[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/bmsuisse/meilisearch-on-azure/main/main.json)  
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fbmsuisse%2Fmeilisearch-on-azure%2Fmain%2Fmain.json
+)  
 
 ## Usage with CLI
 
